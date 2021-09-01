@@ -1,0 +1,38 @@
+[
+    {
+        "route" : "/",
+        "name" : "Home"
+    },
+    {
+        "route" : "/about",
+        "name" : "About"
+    },
+    {
+        "route" : "/service",
+        "name" : "Service"
+    },
+    {
+        "route" : "/price",
+        "name" : "Price"
+    },
+    {
+        "route" : "/class",
+        "name" : "Class"
+    },
+    {
+        "route" : "/pose",
+        "name" : "Pose"
+    },
+    {
+        "route" : "/team",
+        "name" : "Trainer"
+    },
+    {
+        "route" : "/contact",
+        "name" : "Contact"
+    },
+    {
+        "route" : "/author",
+        "name" : "Author"
+    }
+]

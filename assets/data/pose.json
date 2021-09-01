@@ -1,0 +1,15 @@
+[
+    {
+        "id" : 1,
+        "name" : "Pilates Yoga"
+    },
+    {
+        "id" : 2,
+        "name": "Vinyasa yoga"
+    },
+    {
+        "id" : 3,
+        "name" : "Hatha Yoga"
+    }
+
+]

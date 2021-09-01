@@ -1,0 +1,35 @@
+[
+    {
+        "id" : 1,
+        "title" : "Basic",
+        "price" : 49,
+        "duration" : "month",
+        "description" : [
+            "Free Tutorials",
+            "Group Training"
+        ],
+        "popular" : false
+    },
+    {
+        "id" : 2,
+        "title" : "Standard",
+        "price" : 99,
+        "duration" : "month",
+        "description" : [
+            "Special Class",
+            "Group Training"
+        ],
+        "popular" : true
+    },
+    {
+        "id" : 3,
+        "title" : "Premium",
+        "price" : 149,
+        "duration" : "month",
+        "description" : [
+            "Special Class",
+            "Personal Trainer"
+        ],
+        "popular" : false
+    }
+]

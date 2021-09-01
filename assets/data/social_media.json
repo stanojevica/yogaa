@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "name" : "facebook",
+        "link" : "https://www.facebook.com/",
+        "icon" : "fab fa-facebook-f"
+    },
+    {
+        "id" : 2,
+        "name" : "instagram",
+        "link" : "https://www.instagram.com/",
+        "icon" : "fab fa-instagram"
+    },
+    {
+        "id" : 3,
+        "name" : "twitter",
+        "link" : "https://twitter.com/",
+        "icon" : "fab fa-twitter"
+    },
+    {
+        "id" : 4,
+        "name" : "linkedIn",
+        "link" : "https://www.linkedin.com/",
+        "icon" : "fab fa-linkedin-in"
+    }
+]

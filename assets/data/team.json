@@ -1,0 +1,142 @@
+[
+    {
+        "id" : 1,
+        "name" : "Millie Harper",
+        "social_media" : [
+            {
+                "id" : 1,
+                "name" : "facebook",
+                "link" : "https://www.facebook.com/",
+                "icon" : "fab fa-facebook-f"
+            },
+            {
+                "id" : 2,
+                "name" : "instagram",
+                "link" : "https://www.instagram.com/",
+                "icon" : "fab fa-instagram"
+            },
+            {
+                "id" : 3,
+                "name" : "twitter",
+                "link" : "https://twitter.com/",
+                "icon" : "fab fa-twitter"
+            },
+            {
+                "id" : 4,
+                "name" : "linkedIn",
+                "link" : "https://www.linkedin.com/",
+                "icon" : "fab fa-linkedin-in"
+            }
+        ],
+        "img" : "team-1.jpg",
+        "description" : "Professional, lovely and communicative, dedicated to her work and yoga students.",
+        "education" : "Completed 200-hour teacher training at New York Yoga in 2007.",
+        "motto" : "Believes a yoga practice can be beneficial for anyone, regardless of gender, age, religion, health status, or flexibility.",
+        "wordsOfTeacher" : "Yoga has been the basis for upliftment and upliftment in my life, and I am grateful for that every day. Yoga is not only my practice of asanas, but also the way I live my life. As a teacher and student, they constantly remind me of everything I still hope to learn."
+    },
+    {
+        "id" : 2,
+        "name" : "Lilly Fry",
+        "social_media" : [
+            {
+                "id" : 1,
+                "name" : "facebook",
+                "link" : "https://www.facebook.com/",
+                "icon" : "fab fa-facebook-f"
+            },
+            {
+                "id" : 2,
+                "name" : "instagram",
+                "link" : "https://www.instagram.com/",
+                "icon" : "fab fa-instagram"
+            },
+            {
+                "id" : 3,
+                "name" : "twitter",
+                "link" : "https://twitter.com/",
+                "icon" : "fab fa-twitter"
+            },
+            {
+                "id" : 4,
+                "name" : "linkedIn",
+                "link" : "https://www.linkedin.com/",
+                "icon" : "fab fa-linkedin-in"
+            }
+        ],
+        "img" : "team-2.jpg",
+        "description" : "Pleasant, professional. She always helps the students, and spend all her time improving.",
+        "education" : "Certified through New York Yoga in 2015, and a health communications professional with extensive experience working on behalf of people living with disabilities and chronic disease.",
+        "motto" : "Trust in the breath and self-care and all you need is yoga.",
+        "wordsOfTeacher" : "Once I began to practice, I fell in love with yoga and what the movements and heat did for my body and mind."
+    },
+    {
+        "id" : 3,
+        "name" : "Elise Moran",
+        "social_media" : [
+            {
+                "id" : 1,
+                "name" : "facebook",
+                "link" : "https://www.facebook.com/",
+                "icon" : "fab fa-facebook-f"
+            },
+            {
+                "id" : 2,
+                "name" : "instagram",
+                "link" : "https://www.instagram.com/",
+                "icon" : "fab fa-instagram"
+            },
+            {
+                "id" : 3,
+                "name" : "twitter",
+                "link" : "https://twitter.com/",
+                "icon" : "fab fa-twitter"
+            },
+            {
+                "id" : 4,
+                "name" : "linkedIn",
+                "link" : "https://www.linkedin.com/",
+                "icon" : "fab fa-linkedin-in"
+            }
+        ],
+        "img" : "team-3.jpg",
+        "description" : "She believes that yoga is the solution to all problems, to finding peace of mind.",
+        "education" : "Completed 200-hour training in 2011 with Sonic Yoga and received her Children’s Yoga certification at Karma Kids Yoga soon after.",
+        "motto" : "Yoga helps people to heal emotionally.",
+        "wordsOfTeacher" : "No pose is ever mandatory, but there are rules students must follow: 1) Maintain a judgment free zone, both to yourselves and to others and 2) Have fun! It's yoga."
+    },
+    {
+        "id" : 4,
+        "name" : "Kate Glover",
+        "social_media" : [
+            {
+                "id" : 1,
+                "name" : "facebook",
+                "link" : "https://www.facebook.com/",
+                "icon" : "fab fa-facebook-f"
+            },
+            {
+                "id" : 2,
+                "name" : "instagram",
+                "link" : "https://www.instagram.com/",
+                "icon" : "fab fa-instagram"
+            },
+            {
+                "id" : 3,
+                "name" : "twitter",
+                "link" : "https://twitter.com/",
+                "icon" : "fab fa-twitter"
+            },
+            {
+                "id" : 4,
+                "name" : "linkedIn",
+                "link" : "https://www.linkedin.com/",
+                "icon" : "fab fa-linkedin-in"
+            }
+        ],
+        "img" : "team-4.jpg",
+        "description" : "Activist who encourages her students to do better. She spends all her time in yoga.",
+        "education" : "Completed nearly 1000 hours of Yoga and Fitness Teacher Training.",
+        "motto" : "Counteract the stresses of modern life by becoming more mindful and compassionate.",
+        "wordsOfTeacher" : "In yoga classes, I combine a love of teaching with a sharp understanding of movement and body awareness to create a class that drives the artistic flow."
+    }
+]

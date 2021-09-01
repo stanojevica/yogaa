@@ -1,0 +1,26 @@
+[
+    {
+        "idPose" : "1",
+        "img" : "portfolio-1.jpg"
+    },
+    {
+        "idPose" : "1",
+        "img" : "portfolio-4.jpg"
+    },
+    {
+        "idPose" : "2",
+        "img" : "portfolio-2.jpg"
+    },
+    {
+        "idPose" : "2",
+        "img" : "portfolio-5.jpg"
+    },
+    {
+        "idPose" : "3",
+        "img" : "portfolio-3.jpg"
+    },
+    {
+        "idPose" : "3",
+        "img" : "portfolio-6.jpg"
+    }
+]

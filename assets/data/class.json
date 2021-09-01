@@ -1,0 +1,62 @@
+[
+    {
+        "id" : 1,
+        "name" : "Bogy Balance",
+        "teacherId" : 1,
+        "img" : "class-1.jpg",
+        "pose" : 1,
+        "days" : ["Sun, Tue, Thu"],
+        "startAt" : 9,
+        "endAt" : 10
+    },
+    {
+        "id" : 2,
+        "name" : "Hatha Yoga",
+        "teacherId" : 1,
+        "img" : "class-2.jpg",
+        "pose" : 3,
+        "days" : ["Sun, Tue, Thu"],
+        "startAt" : 11,
+        "endAt" : 12
+    },
+    {
+        "id" : 3,
+        "name" : "Bogy Balance",
+        "teacherId" : 2,
+        "img" : "class-5.jpg",
+        "pose" : 1,
+        "days" : ["Sun, Tue, Thu"],
+        "startAt" : 10,
+        "endAt" : 11
+    },
+    {
+        "id" : 3,
+        "name" : "Bogy Balance",
+        "teacherId" : 3,
+        "img" : "class-6.jpg",
+        "pose" : 2,
+        "days" : ["Wen, Fri"],
+        "startAt" : 9,
+        "endAt" : 10
+    },
+    {
+        "id" : 4,
+        "name" : "Childern Yoga",
+        "teacherId" : 4,
+        "img" : "class-3.jpg",
+        "pose" : 2,
+        "days" : ["Wen, Fri"],
+        "startAt" : 10,
+        "endAt" : 11
+    },
+    {
+        "id" : 5,
+        "name" : "Yoga Dance",
+        "teacherId" : 4,
+        "img" : "class-4.jpg",
+        "pose" : 3,
+        "days" : ["Wen, Fri"],
+        "startAt" : 17,
+        "endAt" : 18
+    }
+]
